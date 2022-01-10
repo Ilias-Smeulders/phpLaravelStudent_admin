@@ -36,7 +36,7 @@ class CreateUsersTable extends Migration
                 ],
                 [
                     'name' => 'Ilias Smeulders',
-                    'email' => 'smeulders791@gmail.com',
+                    'email' => 'test@tes.com',
                     'admin' => true,
                     'password' => Hash::make('1234'),
                     'created_at' => now(),
